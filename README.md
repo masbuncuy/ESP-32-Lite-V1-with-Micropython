@@ -1,2 +1,1 @@
 - Micropython | ESP32 Lite V1 dengan LED (1)
-- Micropython | ESP32 Lite V1 dengan LED menambahkan TM1637 7 Segment (2)
