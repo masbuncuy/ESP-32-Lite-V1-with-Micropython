@@ -6,6 +6,6 @@
 - - [Link Yt](https://youtu.be/60ZmzvEgiws)
 - - [Link Branch](https://github.com/masbuncuy/ESP-32-Lite-V1-with-Micropython/tree/with_led_(1))
 
-- Micropython | ESP32 Lite Controlling Fan From Web
+- Micropython | ESP32 Lite V1 Controlling Fan From Web
 - - [Link Yt]()
 - - [Link Branch](https://github.com/masbuncuy/ESP-32-Lite-V1-with-Micropython/tree/controlling_fan_from_web)
